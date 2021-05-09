@@ -28,6 +28,9 @@ function App() {
           <li>3</li>
         </li>
       </ul>
+      <hr/>
+      <p>1</p>
+      <p>2</p>
     </div>
   );
 }

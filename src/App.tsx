@@ -21,6 +21,13 @@ function App() {
       </header>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, saepe?</p>
       <p>Lorem ipsum dolor.</p>
+      <ul>
+        <li>
+          <li>1</li>
+          <li>2</li>
+          <li>3</li>
+        </li>
+      </ul>
     </div>
   );
 }

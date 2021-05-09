@@ -31,6 +31,8 @@ function App() {
       <hr/>
       <p>1</p>
       <p>2</p>
+      <hr/>
+      <h1>new header</h1>
     </div>
   );
 }

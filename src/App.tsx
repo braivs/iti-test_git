@@ -20,6 +20,7 @@ function App() {
         </a>
       </header>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, saepe?</p>
+      <p>Lorem ipsum dolor.</p>
     </div>
   );
 }

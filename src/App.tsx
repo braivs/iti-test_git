@@ -3,6 +3,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  function yo(a,b) {
+    return a + b;
+  }
+
   return (
     <div className="App">
       <header className="App-header">
@@ -32,6 +36,8 @@ function App() {
       <p>1</p>
       <p>2</p>
     </div>
+
+
   );
 }
 
